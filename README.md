@@ -1,4 +1,4 @@
-#You're probably looking for the branches.
+# You're probably looking for the branches.
 Other than this readme file, this main branch is an identical fork of [AuthorBlues Bizhawk Shuffler 2](https://github.com/authorblues/bizhawk-shuffler-2/tree/main) as of 4/13/2025.
 
 The available branches are as follows:
