@@ -21,9 +21,10 @@ It adds a Weighted Odds shuffler feature to the Shuffler. This can help the Shuf
 ## FAQs
 
 Q: So how does this work?
+
 A: Each game starts with one 'lottery ticket.' When a game is selected and played, it loses all of its tickets. When a game is NOT selected, it gains one ticket.  The Shuffler pulls a random number from all the assigned tickets to pick the next game.
 
-If you are playing a 10 game Shuffler, and somehow by chance the games are picked exactly in order, then the odds of each game being chosen are as follows:
+If you are playing a 6 game Shuffler, and somehow by chance the games are picked exactly in order, then the odds of each game being chosen are as follows:
 |        |                     | Shuffler Start | Swap 1: Game 1 | Swap 2: Game 2 | Swap 3: Game 3 | Swap 4: Game 4 | Swap 5: Game 5 |
 |--------|---------------------|----------------|----------------|----------------|----------------|----------------|----------------|
 | Game 1 | Random Shuffle Odds | 1/6 - ~16.6%   | None           | 1/10 - 10%     | 1/10 - 10%     | 1/10 - 10%     | 1/10 - 10%     |
@@ -41,4 +42,5 @@ If you are playing a 10 game Shuffler, and somehow by chance the games are picke
 
 
 Q: I got an error.
+
 A: You can post an Issue here on the git or send a friendly message/tag/ping to @SushiKishi on your social media platform of choice. Just know that there's not a lot that can be done in terms of getting you back to playing quickly other than using the official release of the Shuffler, and that their dev team and any support options available likely can't help you.

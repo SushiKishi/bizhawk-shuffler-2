@@ -25,10 +25,13 @@ Online or cloud-based chat bots probably can't do this, though if you know of ex
 ## FAQs
 
 Q: What happens if my minimum and maximum times are the same/reversed/0?
+
 A: The plug-in will swap them around as needed. If the timers are the same, the Shuffler will simply shuffle at the same interval each time.  If you set either time to 0, then on a 0-second swap, the game will swap, well instantly. Setting both numbers to 0 is unplayable and not for the photosensitive.
 
 Q: I got an error.
+
 A: I tried to add error messages to help explain what happened. Check the lua console.
 
 Q: I got an error and your error message wasn't helpful.
+
 A: Post an issue or whatever it's called here on the Git, or send a *FRIENDLY* to @SushiKishi on the social media platform of your choice.
