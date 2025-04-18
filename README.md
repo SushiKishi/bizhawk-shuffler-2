@@ -1,5 +1,11 @@
 # Bizhawk Shuffler 2 Plugins and Modifications
 
+ - [Modified Swap Timer Plugin](https://github.com/SushiKishi/bizhawk-shuffler-2/tree/releases/Modifiable%20Swap%20Timers)
+ - [Weighted Odds Shuffle Mode Mod](https://github.com/SushiKishi/bizhawk-shuffler-2/tree/releases/Weighted%20Odds)
+ - Temporary Goods Plugin - Under Development
+ - "YOU WIN" Plugin - Under Development
+
+
 ## What's all this then?
 
 I'm working on some plugins and feature requests for the Bizhawk Shuffler 2. If you don't know what that is, [check it out here](https://github.com/authorblues/bizhawk-shuffler-2)! But in short, it swaps the game you're playing in the Bizhawk emulator at random intervals, allowing you to play multiple games for a few seconds (or however long you'd like) at a time.
